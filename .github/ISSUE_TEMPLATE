@@ -1,0 +1,34 @@
+---
+name: Bug Report
+about: Create a bug report for blitz-no-ads.
+title: ''
+labels: bug
+assignees: ''
+---
+
+## Describe the issue
+
+## How can you reproduce it?
+Steps to reproduce the behavior:
+
+1. Go to '...'
+2. Click on '...'
+4. See bug
+
+## What's the expected behavior?
+
+## Platform Information
+
+<!-- If not known, omit -->
+Blitz-No-Ads Version:
+
+<!-- Open Blitz and go to settings. You can see the version in the bottom-left. -->
+Blitz.gg Version:
+
+## Attachments
+
+### Screenshots
+<!-- Not required -->
+
+### Video
+<!-- Not required -->

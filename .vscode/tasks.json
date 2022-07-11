@@ -1,0 +1,19 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "dev",
+			"problemMatcher": [],
+			"label": "npm: dev",
+			"detail": "node dev"
+		},
+		{
+			"type": "npm",
+			"script": "setup",
+			"problemMatcher": [],
+			"label": "npm: setup",
+			"detail": "node scripts/create_shortcut.js"
+		}
+	]
+}
