@@ -1,4 +1,10 @@
 
+## Repository Archived!
+
+This repository is archived and might not work on future Blitz.gg updates.
+
+---
+
 # Blitz.gg Adblocker
 
 Blocks ads in the Blitz.gg Desktop Application.
